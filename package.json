@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "index.html",
+  "scripts": {
+    "test": "first command",
+	"start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhanuzun/projects.git"
+  },
+  "author": "serhanuzun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serhanuzun/projects/issues"
+  },
+  "homepage": "https://github.com/serhanuzun/projects#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
